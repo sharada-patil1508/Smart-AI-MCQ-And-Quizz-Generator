@@ -17,3 +17,10 @@ This project leverages Natural Language Processing (NLP) techniques to understan
 📊 View Results: Displays detailed results after completing the quiz.
 
 ![image alt](https://github.com/sharada-patil1508/Smart-AI-MCQ-And-Quizz-Generator/blob/d8079cdda7ce654741d9786e4b31ce7c2ecadd99/user_interface.jpg)
+
+ Quiz Interface
+
+Once the questions are generated, users can take the quiz in a clean and interactive interface, as shown below:
+
+Each question is displayed with multiple-choice options, allowing users to select their answers. After submitting, results are evaluated and displayed to help users assess their understanding.
+
