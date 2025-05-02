@@ -24,3 +24,5 @@ Once the questions are generated, users can take the quiz in a clean and interac
 
 Each question is displayed with multiple-choice options, allowing users to select their answers. After submitting, results are evaluated and displayed to help users assess their understanding.
 
+![image alt](https://github.com/sharada-patil1508/Smart-AI-MCQ-And-Quizz-Generator/blob/86252bdafc4ca5bf43e4c5825ed09960f110ede2/take_quizz.jpg)
+
