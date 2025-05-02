@@ -40,3 +40,7 @@ After completing a quiz, users are shown a visually engaging result screen that 
 This helps users quickly assess their performance in a simple and user-friendly format.
 
 ![image alt](https://github.com/sharada-patil1508/Smart-AI-MCQ-And-Quizz-Generator/blob/016aefc403d2b07c64cdcbe9560d0e3f45362670/result.jpg)
+
+
+
+Smart MCQ and Quiz Generator is an AI-powered web application that simplifies quiz creation by leveraging Gemini AI for natural language understanding and question generation. Users can upload documents in .txt, .docx, or .pdf formats, and the system intelligently extracts key concepts to generate high-quality multiple-choice questions. The platform also provides an interactive quiz interface and instant result evaluation, making it a valuable tool for educators, students, and corporate trainers aiming to transform textual content into engaging assessments.
