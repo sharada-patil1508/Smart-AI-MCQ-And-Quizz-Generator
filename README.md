@@ -39,3 +39,4 @@ After completing a quiz, users are shown a visually engaging result screen that 
 
 This helps users quickly assess their performance in a simple and user-friendly format.
 
+![image alt](https://github.com/sharada-patil1508/Smart-AI-MCQ-And-Quizz-Generator/blob/016aefc403d2b07c64cdcbe9560d0e3f45362670/result.jpg)
