@@ -26,3 +26,16 @@ Each question is displayed with multiple-choice options, allowing users to selec
 
 ![image alt](https://github.com/sharada-patil1508/Smart-AI-MCQ-And-Quizz-Generator/blob/86252bdafc4ca5bf43e4c5825ed09960f110ede2/take_quizz.jpg)
 
+🏆 Quiz Result Interface
+
+After completing a quiz, users are shown a visually engaging result screen that includes:
+
+🎯 Total number of questions
+
+✅ User's score
+
+📈 A circular progress chart showing the percentage of correct answers
+
+
+This helps users quickly assess their performance in a simple and user-friendly format.
+
